@@ -1,0 +1,1001 @@
+,idEduc,Educational_institution,idh
+0,1,Junior college,1
+1,2,University-preparatory school,2
+2,3,University-preparatory school,3
+3,4,University-preparatory school,4
+4,5,Gymnasium,5
+5,6,University-preparatory school,6
+6,7,Public university,7
+7,8,Junior college,8
+8,9,Public university,9
+9,10,Public university,10
+10,11,Graduate school,11
+11,12,Public university,12
+12,13,Technical college,13
+13,14,High school,14
+14,15,Middle school,15
+15,16,Technical college,16
+16,17,University college,17
+17,18,Public university,18
+18,19,High school,19
+19,20,Corporate university,20
+20,21,Junior college,21
+21,22,Corporate university,22
+22,23,University-preparatory school,23
+23,24,University college,24
+24,25,University-preparatory school,25
+25,26,Technical college,26
+26,27,High school,27
+27,28,Junior college,28
+28,29,Junior college,29
+29,30,Middle school,30
+30,31,Public university,31
+31,32,Gymnasium,32
+32,33,Corporate university,33
+33,34,Public university,34
+34,35,Public university,35
+35,36,Middle school,36
+36,37,Graduate school,37
+37,38,Graduate school,38
+38,39,Gymnasium,39
+39,40,Junior college,40
+40,41,Technical college,41
+41,42,Technical college,42
+42,43,Graduate school,43
+43,44,Public university,44
+44,45,Junior college,45
+45,46,Technical college,46
+46,47,Public university,47
+47,48,Graduate school,48
+48,49,Middle school,49
+49,50,Junior college,50
+50,51,Technical college,51
+51,52,Corporate university,52
+52,53,Gymnasium,53
+53,54,Corporate university,54
+54,55,University college,55
+55,56,Junior college,56
+56,57,High school,57
+57,58,Junior college,58
+58,59,Junior college,59
+59,60,Junior college,60
+60,61,Public university,61
+61,62,Middle school,62
+62,63,Graduate school,63
+63,64,Corporate university,64
+64,65,University college,65
+65,66,Middle school,66
+66,67,Junior college,67
+67,68,University college,68
+68,69,University-preparatory school,69
+69,70,High school,70
+70,71,Corporate university,71
+71,72,Technical college,72
+72,73,Graduate school,73
+73,74,Public university,74
+74,75,Junior college,75
+75,76,High school,76
+76,77,Junior college,77
+77,78,Gymnasium,78
+78,79,Technical college,79
+79,80,Middle school,80
+80,81,Public university,81
+81,82,University-preparatory school,82
+82,83,Junior college,83
+83,84,University-preparatory school,84
+84,85,Junior college,85
+85,86,Technical college,86
+86,87,Graduate school,87
+87,88,Public university,88
+88,89,Corporate university,89
+89,90,University-preparatory school,90
+90,91,Middle school,91
+91,92,Public university,92
+92,93,High school,93
+93,94,University college,94
+94,95,Gymnasium,95
+95,96,Graduate school,96
+96,97,Public university,97
+97,98,Public university,98
+98,99,Technical college,99
+99,100,Gymnasium,100
+100,101,Graduate school,101
+101,102,University college,102
+102,103,Middle school,103
+103,104,Gymnasium,104
+104,105,Technical college,105
+105,106,University college,106
+106,107,Gymnasium,107
+107,108,Gymnasium,108
+108,109,Junior college,109
+109,110,Junior college,110
+110,111,Corporate university,111
+111,112,Technical college,112
+112,113,University-preparatory school,113
+113,114,University-preparatory school,114
+114,115,Technical college,115
+115,116,University-preparatory school,116
+116,117,Graduate school,117
+117,118,Technical college,118
+118,119,Gymnasium,119
+119,120,Middle school,120
+120,121,Junior college,121
+121,122,University-preparatory school,122
+122,123,Public university,123
+123,124,Technical college,124
+124,125,Middle school,125
+125,126,Public university,126
+126,127,Gymnasium,127
+127,128,Graduate school,128
+128,129,Middle school,129
+129,130,Technical college,130
+130,131,University-preparatory school,131
+131,132,Gymnasium,132
+132,133,University college,133
+133,134,Middle school,134
+134,135,University-preparatory school,135
+135,136,Graduate school,136
+136,137,Corporate university,137
+137,138,Corporate university,138
+138,139,Corporate university,139
+139,140,Middle school,140
+140,141,University-preparatory school,141
+141,142,Technical college,142
+142,143,University-preparatory school,143
+143,144,Junior college,144
+144,145,Technical college,145
+145,146,Middle school,146
+146,147,University-preparatory school,147
+147,148,Graduate school,148
+148,149,Technical college,149
+149,150,Public university,150
+150,151,Technical college,151
+151,152,Public university,152
+152,153,Junior college,153
+153,154,High school,154
+154,155,Technical college,155
+155,156,Junior college,156
+156,157,Graduate school,157
+157,158,Junior college,158
+158,159,University college,159
+159,160,Graduate school,160
+160,161,Corporate university,161
+161,162,Junior college,162
+162,163,University college,163
+163,164,Gymnasium,164
+164,165,Graduate school,165
+165,166,Corporate university,166
+166,167,Graduate school,167
+167,168,Corporate university,168
+168,169,Technical college,169
+169,170,Corporate university,170
+170,171,Public university,171
+171,172,Junior college,172
+172,173,Technical college,173
+173,174,Gymnasium,174
+174,175,Public university,175
+175,176,University-preparatory school,176
+176,177,High school,177
+177,178,Corporate university,178
+178,179,University-preparatory school,179
+179,180,Gymnasium,180
+180,181,Gymnasium,181
+181,182,Middle school,182
+182,183,Gymnasium,183
+183,184,University college,184
+184,185,Middle school,185
+185,186,University college,186
+186,187,Technical college,187
+187,188,University college,188
+188,189,Junior college,189
+189,190,Corporate university,190
+190,191,University-preparatory school,191
+191,192,Gymnasium,192
+192,193,Middle school,193
+193,194,University-preparatory school,194
+194,195,University college,195
+195,196,University college,196
+196,197,University college,197
+197,198,Middle school,198
+198,199,Junior college,199
+199,200,Public university,200
+200,201,Gymnasium,201
+201,202,High school,202
+202,203,High school,203
+203,204,Graduate school,204
+204,205,Gymnasium,205
+205,206,Gymnasium,206
+206,207,Graduate school,207
+207,208,Middle school,208
+208,209,High school,209
+209,210,University-preparatory school,210
+210,211,Junior college,211
+211,212,Corporate university,212
+212,213,University college,213
+213,214,Corporate university,214
+214,215,Corporate university,215
+215,216,Public university,216
+216,217,Public university,217
+217,218,Corporate university,218
+218,219,Gymnasium,219
+219,220,University college,220
+220,221,Graduate school,221
+221,222,Public university,222
+222,223,Middle school,223
+223,224,Junior college,224
+224,225,Junior college,225
+225,226,Junior college,226
+226,227,University-preparatory school,227
+227,228,University college,228
+228,229,Junior college,229
+229,230,High school,230
+230,231,Junior college,231
+231,232,Middle school,232
+232,233,Corporate university,233
+233,234,Corporate university,234
+234,235,University college,235
+235,236,High school,236
+236,237,High school,237
+237,238,Gymnasium,238
+238,239,Graduate school,239
+239,240,Middle school,240
+240,241,University-preparatory school,241
+241,242,Middle school,242
+242,243,Graduate school,243
+243,244,High school,244
+244,245,Technical college,245
+245,246,Middle school,246
+246,247,Technical college,247
+247,248,Graduate school,248
+248,249,University college,249
+249,250,Corporate university,250
+250,251,University-preparatory school,251
+251,252,Corporate university,252
+252,253,Middle school,253
+253,254,Public university,254
+254,255,University college,255
+255,256,Public university,256
+256,257,Technical college,257
+257,258,Technical college,258
+258,259,Middle school,259
+259,260,Technical college,260
+260,261,Gymnasium,261
+261,262,University-preparatory school,262
+262,263,Middle school,263
+263,264,Middle school,264
+264,265,Gymnasium,265
+265,266,Gymnasium,266
+266,267,Technical college,267
+267,268,University-preparatory school,268
+268,269,Gymnasium,269
+269,270,University-preparatory school,270
+270,271,University-preparatory school,271
+271,272,Graduate school,272
+272,273,Technical college,273
+273,274,University college,274
+274,275,Graduate school,275
+275,276,Junior college,276
+276,277,Middle school,277
+277,278,Graduate school,278
+278,279,Middle school,279
+279,280,Corporate university,280
+280,281,Technical college,281
+281,282,Junior college,282
+282,283,Junior college,283
+283,284,Corporate university,284
+284,285,University-preparatory school,285
+285,286,Corporate university,286
+286,287,Corporate university,287
+287,288,Corporate university,288
+288,289,Public university,289
+289,290,University college,290
+290,291,Middle school,291
+291,292,University-preparatory school,292
+292,293,Graduate school,293
+293,294,Gymnasium,294
+294,295,University-preparatory school,295
+295,296,Public university,296
+296,297,Public university,297
+297,298,Gymnasium,298
+298,299,Corporate university,299
+299,300,Graduate school,300
+300,301,University college,301
+301,302,University-preparatory school,302
+302,303,Junior college,303
+303,304,Gymnasium,304
+304,305,Gymnasium,305
+305,306,Corporate university,306
+306,307,High school,307
+307,308,Graduate school,308
+308,309,Gymnasium,309
+309,310,Graduate school,310
+310,311,Graduate school,311
+311,312,Corporate university,312
+312,313,Technical college,313
+313,314,Public university,314
+314,315,University-preparatory school,315
+315,316,Middle school,316
+316,317,Corporate university,317
+317,318,University-preparatory school,318
+318,319,Corporate university,319
+319,320,Public university,320
+320,321,Corporate university,321
+321,322,Corporate university,322
+322,323,University-preparatory school,323
+323,324,Technical college,324
+324,325,Junior college,325
+325,326,Graduate school,326
+326,327,Graduate school,327
+327,328,Middle school,328
+328,329,Corporate university,329
+329,330,Middle school,330
+330,331,Public university,331
+331,332,University college,332
+332,333,University college,333
+333,334,Corporate university,334
+334,335,High school,335
+335,336,University college,336
+336,337,Gymnasium,337
+337,338,University college,338
+338,339,Gymnasium,339
+339,340,Gymnasium,340
+340,341,University-preparatory school,341
+341,342,University college,342
+342,343,University-preparatory school,343
+343,344,High school,344
+344,345,Graduate school,345
+345,346,University college,346
+346,347,High school,347
+347,348,Gymnasium,348
+348,349,University college,349
+349,350,University-preparatory school,350
+350,351,University college,351
+351,352,Middle school,352
+352,353,University-preparatory school,353
+353,354,Corporate university,354
+354,355,University-preparatory school,355
+355,356,Technical college,356
+356,357,High school,357
+357,358,Junior college,358
+358,359,University college,359
+359,360,Technical college,360
+360,361,Middle school,361
+361,362,University college,362
+362,363,Middle school,363
+363,364,Corporate university,364
+364,365,Junior college,365
+365,366,Middle school,366
+366,367,University-preparatory school,367
+367,368,University college,368
+368,369,Public university,369
+369,370,High school,370
+370,371,University-preparatory school,371
+371,372,High school,372
+372,373,University college,373
+373,374,Middle school,374
+374,375,University-preparatory school,375
+375,376,Junior college,376
+376,377,Junior college,377
+377,378,Gymnasium,378
+378,379,Graduate school,379
+379,380,Public university,380
+380,381,University college,381
+381,382,Corporate university,382
+382,383,Junior college,383
+383,384,Gymnasium,384
+384,385,Public university,385
+385,386,High school,386
+386,387,University-preparatory school,387
+387,388,High school,388
+388,389,University-preparatory school,389
+389,390,Junior college,390
+390,391,Technical college,391
+391,392,University-preparatory school,392
+392,393,Corporate university,393
+393,394,High school,394
+394,395,Junior college,395
+395,396,Public university,396
+396,397,High school,397
+397,398,Public university,398
+398,399,Technical college,399
+399,400,Middle school,400
+400,401,Gymnasium,401
+401,402,University college,402
+402,403,Corporate university,403
+403,404,Technical college,404
+404,405,Gymnasium,405
+405,406,Middle school,406
+406,407,Middle school,407
+407,408,Public university,408
+408,409,University college,409
+409,410,Graduate school,410
+410,411,Gymnasium,411
+411,412,Graduate school,412
+412,413,Public university,413
+413,414,Junior college,414
+414,415,University-preparatory school,415
+415,416,University college,416
+416,417,Graduate school,417
+417,418,Corporate university,418
+418,419,Public university,419
+419,420,Public university,420
+420,421,Graduate school,421
+421,422,Public university,422
+422,423,Gymnasium,423
+423,424,Technical college,424
+424,425,Public university,425
+425,426,High school,426
+426,427,High school,427
+427,428,High school,428
+428,429,Middle school,429
+429,430,Public university,430
+430,431,High school,431
+431,432,Corporate university,432
+432,433,University-preparatory school,433
+433,434,University-preparatory school,434
+434,435,Gymnasium,435
+435,436,High school,436
+436,437,Public university,437
+437,438,Public university,438
+438,439,High school,439
+439,440,Gymnasium,440
+440,441,Middle school,441
+441,442,Public university,442
+442,443,Public university,443
+443,444,University-preparatory school,444
+444,445,High school,445
+445,446,Gymnasium,446
+446,447,Gymnasium,447
+447,448,Technical college,448
+448,449,Middle school,449
+449,450,High school,450
+450,451,High school,451
+451,452,University college,452
+452,453,High school,453
+453,454,Junior college,454
+454,455,Public university,455
+455,456,Gymnasium,456
+456,457,University college,457
+457,458,Public university,458
+458,459,High school,459
+459,460,Gymnasium,460
+460,461,University-preparatory school,461
+461,462,Public university,462
+462,463,University-preparatory school,463
+463,464,Public university,464
+464,465,University-preparatory school,465
+465,466,High school,466
+466,467,Graduate school,467
+467,468,Corporate university,468
+468,469,High school,469
+469,470,Technical college,470
+470,471,Gymnasium,471
+471,472,Corporate university,472
+472,473,University college,473
+473,474,Public university,474
+474,475,Junior college,475
+475,476,Graduate school,476
+476,477,Junior college,477
+477,478,Public university,478
+478,479,Gymnasium,479
+479,480,Gymnasium,480
+480,481,Junior college,481
+481,482,Gymnasium,482
+482,483,Public university,483
+483,484,Corporate university,484
+484,485,Middle school,485
+485,486,Gymnasium,486
+486,487,Graduate school,487
+487,488,University-preparatory school,488
+488,489,Middle school,489
+489,490,Graduate school,490
+490,491,Middle school,491
+491,492,Corporate university,492
+492,493,Middle school,493
+493,494,Gymnasium,494
+494,495,Graduate school,495
+495,496,University college,496
+496,497,High school,497
+497,498,University college,498
+498,499,Corporate university,499
+499,500,High school,500
+500,501,Graduate school,501
+501,502,University college,502
+502,503,High school,503
+503,504,Gymnasium,504
+504,505,Gymnasium,505
+505,506,University-preparatory school,506
+506,507,Corporate university,507
+507,508,Gymnasium,508
+508,509,University-preparatory school,509
+509,510,Junior college,510
+510,511,Junior college,511
+511,512,University college,512
+512,513,Graduate school,513
+513,514,Technical college,514
+514,515,Gymnasium,515
+515,516,High school,516
+516,517,High school,517
+517,518,University-preparatory school,518
+518,519,Public university,519
+519,520,Graduate school,520
+520,521,Public university,521
+521,522,Gymnasium,522
+522,523,Middle school,523
+523,524,Corporate university,524
+524,525,Technical college,525
+525,526,Corporate university,526
+526,527,High school,527
+527,528,Junior college,528
+528,529,University-preparatory school,529
+529,530,High school,530
+530,531,Corporate university,531
+531,532,Technical college,532
+532,533,Junior college,533
+533,534,Technical college,534
+534,535,Graduate school,535
+535,536,Technical college,536
+536,537,University-preparatory school,537
+537,538,Corporate university,538
+538,539,Corporate university,539
+539,540,University college,540
+540,541,University-preparatory school,541
+541,542,Gymnasium,542
+542,543,Middle school,543
+543,544,Junior college,544
+544,545,High school,545
+545,546,High school,546
+546,547,Gymnasium,547
+547,548,Middle school,548
+548,549,Technical college,549
+549,550,Middle school,550
+550,551,University-preparatory school,551
+551,552,Gymnasium,552
+552,553,Public university,553
+553,554,Middle school,554
+554,555,Corporate university,555
+555,556,Graduate school,556
+556,557,Public university,557
+557,558,Corporate university,558
+558,559,Junior college,559
+559,560,Corporate university,560
+560,561,Corporate university,561
+561,562,Middle school,562
+562,563,Technical college,563
+563,564,University college,564
+564,565,Junior college,565
+565,566,Junior college,566
+566,567,Junior college,567
+567,568,Junior college,568
+568,569,Graduate school,569
+569,570,University college,570
+570,571,University-preparatory school,571
+571,572,High school,572
+572,573,Middle school,573
+573,574,Gymnasium,574
+574,575,Graduate school,575
+575,576,University-preparatory school,576
+576,577,Graduate school,577
+577,578,Gymnasium,578
+578,579,Junior college,579
+579,580,Gymnasium,580
+580,581,University-preparatory school,581
+581,582,University-preparatory school,582
+582,583,Corporate university,583
+583,584,Public university,584
+584,585,Graduate school,585
+585,586,Technical college,586
+586,587,Middle school,587
+587,588,Gymnasium,588
+588,589,Junior college,589
+589,590,Technical college,590
+590,591,Junior college,591
+591,592,Junior college,592
+592,593,University college,593
+593,594,Graduate school,594
+594,595,Gymnasium,595
+595,596,High school,596
+596,597,University college,597
+597,598,High school,598
+598,599,Corporate university,599
+599,600,Middle school,600
+600,601,Junior college,601
+601,602,Graduate school,602
+602,603,Corporate university,603
+603,604,Technical college,604
+604,605,Technical college,605
+605,606,Middle school,606
+606,607,Middle school,607
+607,608,Middle school,608
+608,609,University-preparatory school,609
+609,610,Gymnasium,610
+610,611,Junior college,611
+611,612,Corporate university,612
+612,613,University-preparatory school,613
+613,614,High school,614
+614,615,Middle school,615
+615,616,University-preparatory school,616
+616,617,High school,617
+617,618,Gymnasium,618
+618,619,Junior college,619
+619,620,Graduate school,620
+620,621,University-preparatory school,621
+621,622,Graduate school,622
+622,623,Middle school,623
+623,624,University-preparatory school,624
+624,625,Technical college,625
+625,626,High school,626
+626,627,University college,627
+627,628,Corporate university,628
+628,629,Middle school,629
+629,630,High school,630
+630,631,Public university,631
+631,632,Graduate school,632
+632,633,Graduate school,633
+633,634,Public university,634
+634,635,Graduate school,635
+635,636,Public university,636
+636,637,Junior college,637
+637,638,Middle school,638
+638,639,University-preparatory school,639
+639,640,Technical college,640
+640,641,University-preparatory school,641
+641,642,Public university,642
+642,643,Graduate school,643
+643,644,University college,644
+644,645,High school,645
+645,646,Technical college,646
+646,647,Gymnasium,647
+647,648,Corporate university,648
+648,649,University college,649
+649,650,Public university,650
+650,651,University college,651
+651,652,Technical college,652
+652,653,Gymnasium,653
+653,654,High school,654
+654,655,Corporate university,655
+655,656,University-preparatory school,656
+656,657,University-preparatory school,657
+657,658,University college,658
+658,659,Graduate school,659
+659,660,Technical college,660
+660,661,Corporate university,661
+661,662,Middle school,662
+662,663,University-preparatory school,663
+663,664,Middle school,664
+664,665,University college,665
+665,666,Middle school,666
+666,667,Gymnasium,667
+667,668,High school,668
+668,669,Technical college,669
+669,670,Middle school,670
+670,671,Public university,671
+671,672,Junior college,672
+672,673,University college,673
+673,674,High school,674
+674,675,Middle school,675
+675,676,Technical college,676
+676,677,Junior college,677
+677,678,Middle school,678
+678,679,High school,679
+679,680,University college,680
+680,681,Graduate school,681
+681,682,Middle school,682
+682,683,Gymnasium,683
+683,684,High school,684
+684,685,University college,685
+685,686,Technical college,686
+686,687,Junior college,687
+687,688,University-preparatory school,688
+688,689,Corporate university,689
+689,690,Public university,690
+690,691,Graduate school,691
+691,692,Technical college,692
+692,693,University college,693
+693,694,Technical college,694
+694,695,High school,695
+695,696,Technical college,696
+696,697,Public university,697
+697,698,Middle school,698
+698,699,Technical college,699
+699,700,Graduate school,700
+700,701,Gymnasium,701
+701,702,Gymnasium,702
+702,703,Graduate school,703
+703,704,University college,704
+704,705,University college,705
+705,706,Middle school,706
+706,707,Technical college,707
+707,708,High school,708
+708,709,University-preparatory school,709
+709,710,Corporate university,710
+710,711,Graduate school,711
+711,712,Gymnasium,712
+712,713,Junior college,713
+713,714,Graduate school,714
+714,715,Middle school,715
+715,716,Middle school,716
+716,717,Public university,717
+717,718,Junior college,718
+718,719,Graduate school,719
+719,720,Junior college,720
+720,721,High school,721
+721,722,Technical college,722
+722,723,Middle school,723
+723,724,Junior college,724
+724,725,Public university,725
+725,726,Middle school,726
+726,727,University college,727
+727,728,Corporate university,728
+728,729,Gymnasium,729
+729,730,Gymnasium,730
+730,731,Corporate university,731
+731,732,Middle school,732
+732,733,Gymnasium,733
+733,734,University-preparatory school,734
+734,735,Corporate university,735
+735,736,Middle school,736
+736,737,University-preparatory school,737
+737,738,Gymnasium,738
+738,739,University college,739
+739,740,Technical college,740
+740,741,Corporate university,741
+741,742,Middle school,742
+742,743,University college,743
+743,744,Technical college,744
+744,745,High school,745
+745,746,Gymnasium,746
+746,747,Graduate school,747
+747,748,High school,748
+748,749,Public university,749
+749,750,University college,750
+750,751,High school,751
+751,752,Gymnasium,752
+752,753,High school,753
+753,754,University-preparatory school,754
+754,755,Middle school,755
+755,756,University college,756
+756,757,Public university,757
+757,758,University-preparatory school,758
+758,759,Technical college,759
+759,760,High school,760
+760,761,University-preparatory school,761
+761,762,Gymnasium,762
+762,763,Technical college,763
+763,764,Gymnasium,764
+764,765,Middle school,765
+765,766,University college,766
+766,767,Graduate school,767
+767,768,Junior college,768
+768,769,Public university,769
+769,770,Corporate university,770
+770,771,Public university,771
+771,772,Middle school,772
+772,773,High school,773
+773,774,Gymnasium,774
+774,775,Graduate school,775
+775,776,Corporate university,776
+776,777,University college,777
+777,778,Junior college,778
+778,779,Technical college,779
+779,780,University-preparatory school,780
+780,781,University college,781
+781,782,University college,782
+782,783,University college,783
+783,784,University-preparatory school,784
+784,785,Middle school,785
+785,786,Junior college,786
+786,787,University college,787
+787,788,Public university,788
+788,789,Graduate school,789
+789,790,University college,790
+790,791,Corporate university,791
+791,792,Graduate school,792
+792,793,Corporate university,793
+793,794,Graduate school,794
+794,795,Public university,795
+795,796,Corporate university,796
+796,797,Middle school,797
+797,798,Junior college,798
+798,799,Corporate university,799
+799,800,University-preparatory school,800
+800,801,Graduate school,801
+801,802,Technical college,802
+802,803,Technical college,803
+803,804,Corporate university,804
+804,805,Junior college,805
+805,806,University college,806
+806,807,High school,807
+807,808,Junior college,808
+808,809,Middle school,809
+809,810,High school,810
+810,811,High school,811
+811,812,Corporate university,812
+812,813,University college,813
+813,814,Gymnasium,814
+814,815,Middle school,815
+815,816,University-preparatory school,816
+816,817,Junior college,817
+817,818,Middle school,818
+818,819,University college,819
+819,820,High school,820
+820,821,Public university,821
+821,822,Middle school,822
+822,823,Middle school,823
+823,824,Gymnasium,824
+824,825,University-preparatory school,825
+825,826,Middle school,826
+826,827,Gymnasium,827
+827,828,University-preparatory school,828
+828,829,High school,829
+829,830,Middle school,830
+830,831,Graduate school,831
+831,832,Middle school,832
+832,833,University college,833
+833,834,Middle school,834
+834,835,Corporate university,835
+835,836,University-preparatory school,836
+836,837,Technical college,837
+837,838,University college,838
+838,839,High school,839
+839,840,Public university,840
+840,841,Technical college,841
+841,842,Graduate school,842
+842,843,High school,843
+843,844,Public university,844
+844,845,Graduate school,845
+845,846,High school,846
+846,847,Graduate school,847
+847,848,Gymnasium,848
+848,849,University college,849
+849,850,Gymnasium,850
+850,851,High school,851
+851,852,Junior college,852
+852,853,Graduate school,853
+853,854,Corporate university,854
+854,855,Gymnasium,855
+855,856,Graduate school,856
+856,857,Corporate university,857
+857,858,University-preparatory school,858
+858,859,Public university,859
+859,860,Graduate school,860
+860,861,Public university,861
+861,862,Technical college,862
+862,863,Technical college,863
+863,864,Public university,864
+864,865,Gymnasium,865
+865,866,Middle school,866
+866,867,University-preparatory school,867
+867,868,Corporate university,868
+868,869,High school,869
+869,870,Gymnasium,870
+870,871,Junior college,871
+871,872,University-preparatory school,872
+872,873,Technical college,873
+873,874,University college,874
+874,875,High school,875
+875,876,Corporate university,876
+876,877,University-preparatory school,877
+877,878,Corporate university,878
+878,879,Middle school,879
+879,880,University-preparatory school,880
+880,881,High school,881
+881,882,High school,882
+882,883,Junior college,883
+883,884,University college,884
+884,885,Middle school,885
+885,886,High school,886
+886,887,Graduate school,887
+887,888,University college,888
+888,889,High school,889
+889,890,Junior college,890
+890,891,Gymnasium,891
+891,892,University-preparatory school,892
+892,893,Technical college,893
+893,894,Corporate university,894
+894,895,Public university,895
+895,896,Gymnasium,896
+896,897,Technical college,897
+897,898,University-preparatory school,898
+898,899,University-preparatory school,899
+899,900,Gymnasium,900
+900,901,Technical college,901
+901,902,Middle school,902
+902,903,Technical college,903
+903,904,Middle school,904
+904,905,High school,905
+905,906,Corporate university,906
+906,907,Gymnasium,907
+907,908,Gymnasium,908
+908,909,Technical college,909
+909,910,University-preparatory school,910
+910,911,University-preparatory school,911
+911,912,Graduate school,912
+912,913,University college,913
+913,914,Corporate university,914
+914,915,Technical college,915
+915,916,University college,916
+916,917,Corporate university,917
+917,918,University college,918
+918,919,Junior college,919
+919,920,Public university,920
+920,921,Junior college,921
+921,922,Public university,922
+922,923,University-preparatory school,923
+923,924,Public university,924
+924,925,University college,925
+925,926,Junior college,926
+926,927,High school,927
+927,928,Corporate university,928
+928,929,University college,929
+929,930,Gymnasium,930
+930,931,Junior college,931
+931,932,Public university,932
+932,933,University-preparatory school,933
+933,934,Graduate school,934
+934,935,Corporate university,935
+935,936,University college,936
+936,937,Graduate school,937
+937,938,Technical college,938
+938,939,Junior college,939
+939,940,University college,940
+940,941,University college,941
+941,942,Middle school,942
+942,943,Middle school,943
+943,944,Middle school,944
+944,945,Corporate university,945
+945,946,Junior college,946
+946,947,Graduate school,947
+947,948,Public university,948
+948,949,Junior college,949
+949,950,Public university,950
+950,951,Junior college,951
+951,952,Gymnasium,952
+952,953,University college,953
+953,954,Public university,954
+954,955,Graduate school,955
+955,956,Technical college,956
+956,957,Technical college,957
+957,958,High school,958
+958,959,Technical college,959
+959,960,University college,960
+960,961,Public university,961
+961,962,Corporate university,962
+962,963,High school,963
+963,964,Middle school,964
+964,965,Technical college,965
+965,966,Middle school,966
+966,967,Gymnasium,967
+967,968,Graduate school,968
+968,969,Middle school,969
+969,970,Gymnasium,970
+970,971,University-preparatory school,971
+971,972,Public university,972
+972,973,Middle school,973
+973,974,University college,974
+974,975,Corporate university,975
+975,976,University-preparatory school,976
+976,977,Gymnasium,977
+977,978,Public university,978
+978,979,High school,979
+979,980,Public university,980
+980,981,University college,981
+981,982,Corporate university,982
+982,983,High school,983
+983,984,Junior college,984
+984,985,Graduate school,985
+985,986,Gymnasium,986
+986,987,University-preparatory school,987
+987,988,Junior college,988
+988,989,Corporate university,989
+989,990,Technical college,990
+990,991,Junior college,991
+991,992,Junior college,992
+992,993,High school,993
+993,994,University-preparatory school,994
+994,995,Technical college,995
+995,996,Corporate university,996
+996,997,Graduate school,997
+997,998,Public university,998
+998,999,University-preparatory school,999
+999,1000,Graduate school,1000
