@@ -6,7 +6,7 @@ Base = declarative_base()
 class Candidate(db.Model):
    __tablename__='candidate'
     
-   id = db.Column(db.Integer, primary_key=True)
+   idU = db.Column(db.Integer, primary_key=True)
    Candidates = db.Column(db.String(64))
    Gender = db.Column(db.Boolean, default=False, nullable=False)
 
@@ -17,20 +17,21 @@ class Candidate(db.Model):
    def __repr__(self):
       return f"{self.Candidate}"
 
-class Bank(db.model):
-   __tablename__='bank'
-    
-   id = db.Column(db.Integer, primary_key=True)
-   banques = db.Column(db.String(64))
+class Credit_card_type(db.Model):
+   __tablename__='credit_card_type'
 
-   def __init__(self, banques):
+   idh = db.Column(db.Integer, primary_key=True)
+   idBank = db.Column(db.Integer, primary_key=True)
+   credit_card_types = db.Column(db.String(64))
+
+   def __init__(self, credit_card_types):
       
-      self.banque = banques
+      self.credit_card_types = credit_card_types
    
    def __repr__(self):
-      return f"{self.banques}"
+      return f"{self.credit_card_types}"
 
-class Passion(db.model):
+class Passion(db.Model):
    __tablename__='passion'
     
    id = db.Column(db.Integer, primary_key=True)
@@ -43,7 +44,7 @@ class Passion(db.model):
    def __repr__(self):
       return f"{self.passions}"
 
-class Educational_institution(db.model):
+class Educational_institution(db.Model):
    __tablename__='educational_institution'
     
    id = db.Column(db.Integer, primary_key=True)
