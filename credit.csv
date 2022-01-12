@@ -1,0 +1,1001 @@
+,idh,credit_card_type
+0,1,Bank of America
+1,2,American Express
+2,3,Maestro
+3,4,UnionPay
+4,5,Capital One
+5,6,Discover
+6,7,Visa
+7,8,American Express
+8,9,Chase
+9,10,Citibank
+10,11,Discover
+11,12,UnionPay
+12,13,Visa
+13,14,Wells Fargo
+14,15,MasterCard
+15,16,Bank of America
+16,17,American Express
+17,18,Bank of America
+18,19,Chase
+19,20,Wells Fargo
+20,21,Bank of America
+21,22,American Express
+22,23,Capital One
+23,24,Capital One
+24,25,Visa
+25,26,Chase
+26,27,American Express
+27,28,UnionPay
+28,29,Visa
+29,30,American Express
+30,31,Capital One
+31,32,Maestro
+32,33,American Express
+33,34,MasterCard
+34,35,Wells Fargo
+35,36,American Express
+36,37,UnionPay
+37,38,Visa
+38,39,UnionPay
+39,40,Capital One
+40,41,Maestro
+41,42,Maestro
+42,43,Capital One
+43,44,Capital One
+44,45,Wells Fargo
+45,46,Chase
+46,47,Visa
+47,48,MasterCard
+48,49,Wells Fargo
+49,50,UnionPay
+50,51,Discover
+51,52,Bank of America
+52,53,MasterCard
+53,54,Capital One
+54,55,Citibank
+55,56,Citibank
+56,57,Wells Fargo
+57,58,American Express
+58,59,Capital One
+59,60,Visa
+60,61,Citibank
+61,62,Visa
+62,63,Chase
+63,64,MasterCard
+64,65,Citibank
+65,66,UnionPay
+66,67,Wells Fargo
+67,68,Discover
+68,69,UnionPay
+69,70,UnionPay
+70,71,Capital One
+71,72,Maestro
+72,73,Wells Fargo
+73,74,Bank of America
+74,75,Chase
+75,76,UnionPay
+76,77,UnionPay
+77,78,Wells Fargo
+78,79,Chase
+79,80,Citibank
+80,81,Visa
+81,82,Discover
+82,83,Visa
+83,84,Visa
+84,85,UnionPay
+85,86,Discover
+86,87,Bank of America
+87,88,Citibank
+88,89,American Express
+89,90,Discover
+90,91,Capital One
+91,92,Visa
+92,93,MasterCard
+93,94,Capital One
+94,95,Bank of America
+95,96,Visa
+96,97,Chase
+97,98,Citibank
+98,99,Maestro
+99,100,Visa
+100,101,Capital One
+101,102,Maestro
+102,103,MasterCard
+103,104,Capital One
+104,105,UnionPay
+105,106,Capital One
+106,107,Maestro
+107,108,Visa
+108,109,UnionPay
+109,110,American Express
+110,111,MasterCard
+111,112,Discover
+112,113,Capital One
+113,114,American Express
+114,115,Bank of America
+115,116,Capital One
+116,117,Capital One
+117,118,Wells Fargo
+118,119,Citibank
+119,120,Capital One
+120,121,American Express
+121,122,Discover
+122,123,Discover
+123,124,UnionPay
+124,125,UnionPay
+125,126,Bank of America
+126,127,American Express
+127,128,Citibank
+128,129,Wells Fargo
+129,130,Discover
+130,131,UnionPay
+131,132,Maestro
+132,133,Visa
+133,134,Chase
+134,135,Visa
+135,136,Visa
+136,137,Visa
+137,138,Chase
+138,139,Visa
+139,140,Visa
+140,141,Bank of America
+141,142,UnionPay
+142,143,Chase
+143,144,Chase
+144,145,Chase
+145,146,Wells Fargo
+146,147,Bank of America
+147,148,Citibank
+148,149,Discover
+149,150,Discover
+150,151,Visa
+151,152,Capital One
+152,153,Bank of America
+153,154,MasterCard
+154,155,Visa
+155,156,Capital One
+156,157,Capital One
+157,158,Bank of America
+158,159,Bank of America
+159,160,Chase
+160,161,Wells Fargo
+161,162,Maestro
+162,163,Wells Fargo
+163,164,Bank of America
+164,165,Visa
+165,166,Bank of America
+166,167,Wells Fargo
+167,168,Visa
+168,169,Capital One
+169,170,American Express
+170,171,Maestro
+171,172,Capital One
+172,173,MasterCard
+173,174,Wells Fargo
+174,175,Capital One
+175,176,Bank of America
+176,177,Capital One
+177,178,Chase
+178,179,Wells Fargo
+179,180,Citibank
+180,181,Chase
+181,182,Citibank
+182,183,Visa
+183,184,UnionPay
+184,185,Citibank
+185,186,MasterCard
+186,187,Citibank
+187,188,Maestro
+188,189,Visa
+189,190,Capital One
+190,191,Capital One
+191,192,UnionPay
+192,193,Discover
+193,194,Chase
+194,195,Capital One
+195,196,Bank of America
+196,197,MasterCard
+197,198,American Express
+198,199,Bank of America
+199,200,Capital One
+200,201,American Express
+201,202,Visa
+202,203,Citibank
+203,204,Citibank
+204,205,Citibank
+205,206,MasterCard
+206,207,Capital One
+207,208,UnionPay
+208,209,Citibank
+209,210,MasterCard
+210,211,American Express
+211,212,Maestro
+212,213,Capital One
+213,214,Chase
+214,215,Chase
+215,216,Wells Fargo
+216,217,Wells Fargo
+217,218,Citibank
+218,219,Chase
+219,220,Visa
+220,221,Maestro
+221,222,MasterCard
+222,223,Citibank
+223,224,Wells Fargo
+224,225,Citibank
+225,226,Capital One
+226,227,Chase
+227,228,Maestro
+228,229,American Express
+229,230,American Express
+230,231,Wells Fargo
+231,232,MasterCard
+232,233,Maestro
+233,234,American Express
+234,235,Visa
+235,236,Wells Fargo
+236,237,Capital One
+237,238,Visa
+238,239,Maestro
+239,240,Citibank
+240,241,MasterCard
+241,242,Discover
+242,243,Bank of America
+243,244,Bank of America
+244,245,Discover
+245,246,Discover
+246,247,American Express
+247,248,Discover
+248,249,UnionPay
+249,250,American Express
+250,251,Visa
+251,252,MasterCard
+252,253,Discover
+253,254,UnionPay
+254,255,Chase
+255,256,Chase
+256,257,UnionPay
+257,258,Wells Fargo
+258,259,Discover
+259,260,American Express
+260,261,MasterCard
+261,262,UnionPay
+262,263,Citibank
+263,264,Chase
+264,265,Wells Fargo
+265,266,Wells Fargo
+266,267,Bank of America
+267,268,Visa
+268,269,MasterCard
+269,270,Wells Fargo
+270,271,Wells Fargo
+271,272,MasterCard
+272,273,Chase
+273,274,Discover
+274,275,MasterCard
+275,276,MasterCard
+276,277,Capital One
+277,278,Maestro
+278,279,MasterCard
+279,280,Capital One
+280,281,Chase
+281,282,American Express
+282,283,American Express
+283,284,Visa
+284,285,Chase
+285,286,Wells Fargo
+286,287,Capital One
+287,288,Maestro
+288,289,Capital One
+289,290,MasterCard
+290,291,Visa
+291,292,Visa
+292,293,UnionPay
+293,294,MasterCard
+294,295,Visa
+295,296,MasterCard
+296,297,Chase
+297,298,Visa
+298,299,Chase
+299,300,Bank of America
+300,301,Bank of America
+301,302,MasterCard
+302,303,Bank of America
+303,304,American Express
+304,305,Chase
+305,306,Maestro
+306,307,American Express
+307,308,Wells Fargo
+308,309,MasterCard
+309,310,Visa
+310,311,Visa
+311,312,Discover
+312,313,Chase
+313,314,UnionPay
+314,315,Bank of America
+315,316,UnionPay
+316,317,Wells Fargo
+317,318,Maestro
+318,319,Wells Fargo
+319,320,Discover
+320,321,UnionPay
+321,322,Bank of America
+322,323,Chase
+323,324,UnionPay
+324,325,Chase
+325,326,Capital One
+326,327,Citibank
+327,328,American Express
+328,329,MasterCard
+329,330,American Express
+330,331,Wells Fargo
+331,332,Visa
+332,333,Visa
+333,334,MasterCard
+334,335,American Express
+335,336,Chase
+336,337,Visa
+337,338,Chase
+338,339,Wells Fargo
+339,340,Bank of America
+340,341,Maestro
+341,342,Capital One
+342,343,Bank of America
+343,344,Bank of America
+344,345,Capital One
+345,346,American Express
+346,347,Capital One
+347,348,Bank of America
+348,349,Capital One
+349,350,Maestro
+350,351,Maestro
+351,352,Capital One
+352,353,American Express
+353,354,American Express
+354,355,Citibank
+355,356,UnionPay
+356,357,Discover
+357,358,Bank of America
+358,359,Discover
+359,360,UnionPay
+360,361,Visa
+361,362,Wells Fargo
+362,363,Capital One
+363,364,American Express
+364,365,Bank of America
+365,366,Visa
+366,367,UnionPay
+367,368,American Express
+368,369,Maestro
+369,370,Bank of America
+370,371,MasterCard
+371,372,Citibank
+372,373,Bank of America
+373,374,Discover
+374,375,Chase
+375,376,Capital One
+376,377,Bank of America
+377,378,Discover
+378,379,Citibank
+379,380,UnionPay
+380,381,Capital One
+381,382,UnionPay
+382,383,Chase
+383,384,Maestro
+384,385,Citibank
+385,386,Discover
+386,387,American Express
+387,388,Bank of America
+388,389,American Express
+389,390,Discover
+390,391,Visa
+391,392,Chase
+392,393,American Express
+393,394,Chase
+394,395,Wells Fargo
+395,396,Capital One
+396,397,Visa
+397,398,Chase
+398,399,Visa
+399,400,Capital One
+400,401,Citibank
+401,402,Capital One
+402,403,Discover
+403,404,American Express
+404,405,UnionPay
+405,406,UnionPay
+406,407,Discover
+407,408,Visa
+408,409,Visa
+409,410,Capital One
+410,411,Citibank
+411,412,Discover
+412,413,American Express
+413,414,Discover
+414,415,Visa
+415,416,Wells Fargo
+416,417,Maestro
+417,418,Bank of America
+418,419,MasterCard
+419,420,Chase
+420,421,Discover
+421,422,MasterCard
+422,423,Wells Fargo
+423,424,Capital One
+424,425,Capital One
+425,426,Maestro
+426,427,Maestro
+427,428,American Express
+428,429,Bank of America
+429,430,Wells Fargo
+430,431,Citibank
+431,432,Wells Fargo
+432,433,MasterCard
+433,434,Discover
+434,435,Visa
+435,436,Maestro
+436,437,Citibank
+437,438,UnionPay
+438,439,Wells Fargo
+439,440,Maestro
+440,441,Capital One
+441,442,MasterCard
+442,443,MasterCard
+443,444,UnionPay
+444,445,Wells Fargo
+445,446,Maestro
+446,447,Maestro
+447,448,Maestro
+448,449,Chase
+449,450,MasterCard
+450,451,Citibank
+451,452,American Express
+452,453,Capital One
+453,454,Visa
+454,455,Capital One
+455,456,UnionPay
+456,457,Capital One
+457,458,Visa
+458,459,Capital One
+459,460,MasterCard
+460,461,Wells Fargo
+461,462,Capital One
+462,463,Visa
+463,464,Visa
+464,465,Maestro
+465,466,MasterCard
+466,467,Maestro
+467,468,Wells Fargo
+468,469,Chase
+469,470,Bank of America
+470,471,American Express
+471,472,Chase
+472,473,MasterCard
+473,474,Capital One
+474,475,Visa
+475,476,Bank of America
+476,477,Chase
+477,478,Maestro
+478,479,UnionPay
+479,480,Maestro
+480,481,UnionPay
+481,482,Citibank
+482,483,Discover
+483,484,Maestro
+484,485,American Express
+485,486,Discover
+486,487,Citibank
+487,488,American Express
+488,489,Discover
+489,490,Chase
+490,491,Capital One
+491,492,Wells Fargo
+492,493,American Express
+493,494,American Express
+494,495,MasterCard
+495,496,UnionPay
+496,497,Discover
+497,498,Citibank
+498,499,American Express
+499,500,UnionPay
+500,501,Capital One
+501,502,Wells Fargo
+502,503,Chase
+503,504,MasterCard
+504,505,UnionPay
+505,506,Discover
+506,507,Bank of America
+507,508,Bank of America
+508,509,UnionPay
+509,510,MasterCard
+510,511,American Express
+511,512,Chase
+512,513,Citibank
+513,514,Discover
+514,515,Wells Fargo
+515,516,Chase
+516,517,American Express
+517,518,UnionPay
+518,519,Capital One
+519,520,American Express
+520,521,American Express
+521,522,MasterCard
+522,523,UnionPay
+523,524,Bank of America
+524,525,Maestro
+525,526,MasterCard
+526,527,Citibank
+527,528,Capital One
+528,529,Maestro
+529,530,Capital One
+530,531,Citibank
+531,532,Wells Fargo
+532,533,MasterCard
+533,534,MasterCard
+534,535,Discover
+535,536,Maestro
+536,537,Visa
+537,538,Visa
+538,539,Bank of America
+539,540,Citibank
+540,541,Bank of America
+541,542,Chase
+542,543,Wells Fargo
+543,544,Citibank
+544,545,Chase
+545,546,Discover
+546,547,MasterCard
+547,548,UnionPay
+548,549,Citibank
+549,550,Capital One
+550,551,Citibank
+551,552,UnionPay
+552,553,MasterCard
+553,554,Capital One
+554,555,Bank of America
+555,556,Visa
+556,557,Discover
+557,558,Wells Fargo
+558,559,Visa
+559,560,Chase
+560,561,Bank of America
+561,562,Wells Fargo
+562,563,Chase
+563,564,Capital One
+564,565,Chase
+565,566,Wells Fargo
+566,567,Capital One
+567,568,Visa
+568,569,Chase
+569,570,Bank of America
+570,571,Citibank
+571,572,Maestro
+572,573,Bank of America
+573,574,UnionPay
+574,575,MasterCard
+575,576,Visa
+576,577,Bank of America
+577,578,Bank of America
+578,579,American Express
+579,580,Discover
+580,581,MasterCard
+581,582,MasterCard
+582,583,MasterCard
+583,584,Capital One
+584,585,Capital One
+585,586,UnionPay
+586,587,Bank of America
+587,588,Maestro
+588,589,Chase
+589,590,Capital One
+590,591,Maestro
+591,592,American Express
+592,593,MasterCard
+593,594,Citibank
+594,595,Discover
+595,596,Bank of America
+596,597,American Express
+597,598,UnionPay
+598,599,Citibank
+599,600,Wells Fargo
+600,601,UnionPay
+601,602,MasterCard
+602,603,Chase
+603,604,Bank of America
+604,605,Discover
+605,606,Citibank
+606,607,Visa
+607,608,Citibank
+608,609,Citibank
+609,610,Capital One
+610,611,UnionPay
+611,612,Capital One
+612,613,Visa
+613,614,Bank of America
+614,615,Discover
+615,616,Chase
+616,617,MasterCard
+617,618,Capital One
+618,619,Citibank
+619,620,MasterCard
+620,621,Chase
+621,622,Maestro
+622,623,Discover
+623,624,Capital One
+624,625,Maestro
+625,626,Wells Fargo
+626,627,American Express
+627,628,Wells Fargo
+628,629,Discover
+629,630,UnionPay
+630,631,Discover
+631,632,MasterCard
+632,633,Capital One
+633,634,American Express
+634,635,MasterCard
+635,636,UnionPay
+636,637,Capital One
+637,638,Citibank
+638,639,Discover
+639,640,Bank of America
+640,641,Maestro
+641,642,Discover
+642,643,Wells Fargo
+643,644,Discover
+644,645,Bank of America
+645,646,Citibank
+646,647,Capital One
+647,648,Discover
+648,649,Bank of America
+649,650,Maestro
+650,651,Chase
+651,652,Citibank
+652,653,Chase
+653,654,Bank of America
+654,655,Visa
+655,656,Wells Fargo
+656,657,Citibank
+657,658,American Express
+658,659,Discover
+659,660,Discover
+660,661,UnionPay
+661,662,Bank of America
+662,663,Discover
+663,664,Capital One
+664,665,Capital One
+665,666,Chase
+666,667,Chase
+667,668,Chase
+668,669,American Express
+669,670,American Express
+670,671,Capital One
+671,672,Citibank
+672,673,UnionPay
+673,674,Visa
+674,675,Chase
+675,676,Maestro
+676,677,Wells Fargo
+677,678,Chase
+678,679,Chase
+679,680,Capital One
+680,681,MasterCard
+681,682,Capital One
+682,683,American Express
+683,684,American Express
+684,685,MasterCard
+685,686,Capital One
+686,687,Discover
+687,688,Citibank
+688,689,Capital One
+689,690,Maestro
+690,691,MasterCard
+691,692,MasterCard
+692,693,Bank of America
+693,694,Visa
+694,695,Citibank
+695,696,Capital One
+696,697,Visa
+697,698,Capital One
+698,699,UnionPay
+699,700,Capital One
+700,701,Visa
+701,702,American Express
+702,703,Bank of America
+703,704,Capital One
+704,705,American Express
+705,706,Capital One
+706,707,MasterCard
+707,708,Capital One
+708,709,Visa
+709,710,Bank of America
+710,711,American Express
+711,712,American Express
+712,713,UnionPay
+713,714,Maestro
+714,715,MasterCard
+715,716,Discover
+716,717,Visa
+717,718,Wells Fargo
+718,719,Wells Fargo
+719,720,Wells Fargo
+720,721,American Express
+721,722,MasterCard
+722,723,Maestro
+723,724,American Express
+724,725,Discover
+725,726,Chase
+726,727,UnionPay
+727,728,Discover
+728,729,MasterCard
+729,730,Wells Fargo
+730,731,American Express
+731,732,Citibank
+732,733,UnionPay
+733,734,Visa
+734,735,Capital One
+735,736,Visa
+736,737,Discover
+737,738,MasterCard
+738,739,UnionPay
+739,740,Maestro
+740,741,Visa
+741,742,American Express
+742,743,UnionPay
+743,744,UnionPay
+744,745,Wells Fargo
+745,746,Visa
+746,747,American Express
+747,748,Capital One
+748,749,Capital One
+749,750,Citibank
+750,751,Bank of America
+751,752,Maestro
+752,753,Maestro
+753,754,UnionPay
+754,755,Visa
+755,756,Capital One
+756,757,MasterCard
+757,758,American Express
+758,759,UnionPay
+759,760,American Express
+760,761,Citibank
+761,762,Bank of America
+762,763,Maestro
+763,764,Discover
+764,765,Capital One
+765,766,UnionPay
+766,767,Bank of America
+767,768,Visa
+768,769,Citibank
+769,770,Citibank
+770,771,UnionPay
+771,772,Chase
+772,773,Citibank
+773,774,Wells Fargo
+774,775,UnionPay
+775,776,Capital One
+776,777,Bank of America
+777,778,Maestro
+778,779,MasterCard
+779,780,Visa
+780,781,UnionPay
+781,782,Discover
+782,783,Capital One
+783,784,Citibank
+784,785,Citibank
+785,786,Capital One
+786,787,Bank of America
+787,788,UnionPay
+788,789,Wells Fargo
+789,790,Citibank
+790,791,Wells Fargo
+791,792,American Express
+792,793,American Express
+793,794,American Express
+794,795,Wells Fargo
+795,796,American Express
+796,797,American Express
+797,798,Capital One
+798,799,Wells Fargo
+799,800,UnionPay
+800,801,Maestro
+801,802,Bank of America
+802,803,Capital One
+803,804,UnionPay
+804,805,Chase
+805,806,UnionPay
+806,807,Capital One
+807,808,Chase
+808,809,Citibank
+809,810,Wells Fargo
+810,811,Bank of America
+811,812,Discover
+812,813,Discover
+813,814,American Express
+814,815,Bank of America
+815,816,Maestro
+816,817,Capital One
+817,818,American Express
+818,819,Wells Fargo
+819,820,Visa
+820,821,Wells Fargo
+821,822,Citibank
+822,823,Maestro
+823,824,UnionPay
+824,825,Discover
+825,826,Bank of America
+826,827,MasterCard
+827,828,Chase
+828,829,Capital One
+829,830,Citibank
+830,831,Maestro
+831,832,American Express
+832,833,Citibank
+833,834,Maestro
+834,835,Bank of America
+835,836,Wells Fargo
+836,837,MasterCard
+837,838,Chase
+838,839,UnionPay
+839,840,Visa
+840,841,Bank of America
+841,842,Bank of America
+842,843,Capital One
+843,844,Citibank
+844,845,Capital One
+845,846,MasterCard
+846,847,Wells Fargo
+847,848,Citibank
+848,849,Wells Fargo
+849,850,MasterCard
+850,851,Visa
+851,852,Capital One
+852,853,Citibank
+853,854,Wells Fargo
+854,855,American Express
+855,856,American Express
+856,857,Bank of America
+857,858,Chase
+858,859,Bank of America
+859,860,Capital One
+860,861,Capital One
+861,862,Discover
+862,863,UnionPay
+863,864,MasterCard
+864,865,Maestro
+865,866,UnionPay
+866,867,Bank of America
+867,868,Bank of America
+868,869,Discover
+869,870,Wells Fargo
+870,871,Visa
+871,872,Discover
+872,873,Discover
+873,874,Capital One
+874,875,Maestro
+875,876,Capital One
+876,877,Capital One
+877,878,American Express
+878,879,Citibank
+879,880,Visa
+880,881,Wells Fargo
+881,882,Visa
+882,883,Visa
+883,884,Citibank
+884,885,Wells Fargo
+885,886,UnionPay
+886,887,American Express
+887,888,Bank of America
+888,889,Citibank
+889,890,Visa
+890,891,Discover
+891,892,MasterCard
+892,893,Maestro
+893,894,Citibank
+894,895,Discover
+895,896,Chase
+896,897,Bank of America
+897,898,Visa
+898,899,Wells Fargo
+899,900,Visa
+900,901,Discover
+901,902,Discover
+902,903,Capital One
+903,904,UnionPay
+904,905,Maestro
+905,906,Visa
+906,907,UnionPay
+907,908,Discover
+908,909,Visa
+909,910,Bank of America
+910,911,UnionPay
+911,912,Visa
+912,913,Citibank
+913,914,Chase
+914,915,Citibank
+915,916,Discover
+916,917,MasterCard
+917,918,Wells Fargo
+918,919,Capital One
+919,920,UnionPay
+920,921,Capital One
+921,922,Visa
+922,923,UnionPay
+923,924,Maestro
+924,925,American Express
+925,926,Bank of America
+926,927,Chase
+927,928,Bank of America
+928,929,Chase
+929,930,Visa
+930,931,Wells Fargo
+931,932,MasterCard
+932,933,Capital One
+933,934,Visa
+934,935,Discover
+935,936,MasterCard
+936,937,Maestro
+937,938,Chase
+938,939,UnionPay
+939,940,Wells Fargo
+940,941,MasterCard
+941,942,Maestro
+942,943,MasterCard
+943,944,Discover
+944,945,American Express
+945,946,Discover
+946,947,Discover
+947,948,Bank of America
+948,949,American Express
+949,950,Capital One
+950,951,American Express
+951,952,Capital One
+952,953,MasterCard
+953,954,Capital One
+954,955,Discover
+955,956,Chase
+956,957,Discover
+957,958,Wells Fargo
+958,959,Bank of America
+959,960,Wells Fargo
+960,961,Citibank
+961,962,Bank of America
+962,963,Maestro
+963,964,Wells Fargo
+964,965,Chase
+965,966,MasterCard
+966,967,Discover
+967,968,Maestro
+968,969,Visa
+969,970,Wells Fargo
+970,971,Maestro
+971,972,MasterCard
+972,973,Citibank
+973,974,Discover
+974,975,American Express
+975,976,Capital One
+976,977,UnionPay
+977,978,Citibank
+978,979,Chase
+979,980,Capital One
+980,981,Capital One
+981,982,Discover
+982,983,Citibank
+983,984,Citibank
+984,985,Citibank
+985,986,MasterCard
+986,987,MasterCard
+987,988,Capital One
+988,989,Bank of America
+989,990,UnionPay
+990,991,American Express
+991,992,Bank of America
+992,993,UnionPay
+993,994,Maestro
+994,995,Capital One
+995,996,Wells Fargo
+996,997,UnionPay
+997,998,American Express
+998,999,UnionPay
+999,1000,Bank of America
