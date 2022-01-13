@@ -3,59 +3,61 @@ from sqlalchemy import Table, Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 Base = declarative_base()
 
-class Candidate(db.Model):
-   __tablename__='candidate'
+class Centre(db.Model):
+   __tablename__='centre'
     
-   idU = db.Column(db.Integer, primary_key=True)
+   ID = db.Column(db.Integer, primary_key=True)
    Candidates = db.Column(db.String(64))
    Gender = db.Column(db.Boolean, default=False, nullable=False)
+   idBank = db.Column(db.Integer)
+   idPassion = db.Column(db.Integer)
+   idInstitution = db.Column(db.Integer)
 
    def __init__(self, Candidates):
       
       self.Candidates = Candidates
    
    def __repr__(self):
-      return f"{self.Candidate}"
+      return f"{self.Candidates}"
 
-class Credit_card_type(db.Model):
-   __tablename__='credit_card_type'
+class Credit (db.Model):
+   __tablename__='credit'
 
-   idh = db.Column(db.Integer, primary_key=True)
    idBank = db.Column(db.Integer, primary_key=True)
-   credit_card_types = db.Column(db.String(64))
+   credit_card_type = db.Column(db.String(64))
 
-   def __init__(self, credit_card_types):
+   def __init__(self, credit_card_type):
       
-      self.credit_card_types = credit_card_types
+      self.credit_card_type = credit_card_type
    
    def __repr__(self):
-      return f"{self.credit_card_types}"
+      return f"{self.credit_card_type}"
 
 class Passion(db.Model):
    __tablename__='passion'
     
-   id = db.Column(db.Integer, primary_key=True)
-   passions = db.Column(db.String(64))
+   idPassion = db.Column(db.Integer, primary_key=True)
+   nomPassion = db.Column(db.String(64))
 
-   def __init__(self, passions):
+   def __init__(self, nomPassion):
       
-      self.banque = passions
+      self.nomPassion = nomPassion
    
    def __repr__(self):
-      return f"{self.passions}"
+      return f"{self.nomPassion}"
 
-class Educational_institution(db.Model):
-   __tablename__='educational_institution'
+class Institution(db.Model):
+   __tablename__='institution'
     
-   id = db.Column(db.Integer, primary_key=True)
-   educ = db.Column(db.String(64))
+   idInstitution = db.Column(db.Integer, primary_key=True)
+   Education = db.Column(db.String(64))
 
-   def __init__(self, educ):
+   def __init__(self, Education):
       
-      self.banque = educ
+      self.Education = Education
    
    def __repr__(self):
-      return f"{self.educ}"
+      return f"{self.Education}"
 
 
 
