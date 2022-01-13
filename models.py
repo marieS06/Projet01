@@ -1,6 +1,7 @@
 from app import db
-from sqlalchemy import Table, Column, Integer, String
+from sqlalchemy import Table, Column, Integer, ForeignKey,String
 from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import relationship
 Base = declarative_base()
 
 class Centre(db.Model):
@@ -9,9 +10,14 @@ class Centre(db.Model):
    ID = db.Column(db.Integer, primary_key=True)
    Candidates = db.Column(db.String(64))
    Gender = db.Column(db.Boolean, default=False, nullable=False)
-   idBank = db.Column(db.Integer)
-   idPassion = db.Column(db.Integer)
-   idInstitution = db.Column(db.Integer)
+   idBank = db.Column(db.Integer,ForeignKey('credit.idBank'))
+   idPassion = db.Column(db.Integer,ForeignKey('passion.idPassion'))
+   idInstitution = db.Column(db.Integer,ForeignKey('institution.idInstitution'))
+
+   credit = relationship("Credit", back_populates="idBank")
+   passion = relationship("Passion", back_populates="idPassion")
+   institution = relationship("Institution", back_populates="idInstitution")
+   
 
    def __init__(self, Candidates):
       
