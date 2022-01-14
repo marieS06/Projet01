@@ -1,37 +1,17 @@
-from app import db
-from sqlalchemy import Table, Column, Integer, ForeignKey,String
+from db import db
+from sqlalchemy import Table, Column, Integer, ForeignKey,String,engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
-Base = declarative_base()
+import pandas as pd
 
-class Centre(db.Model):
-   __tablename__='centre'
-    
-   ID = db.Column(db.Integer, primary_key=True)
-   Candidates = db.Column(db.String(64))
-   Gender = db.Column(db.Boolean, default=False, nullable=False)
-   idBank = db.Column(db.Integer,ForeignKey('credit.idBank'))
-   idPassion = db.Column(db.Integer,ForeignKey('passion.idPassion'))
-   idInstitution = db.Column(db.Integer,ForeignKey('institution.idInstitution'))
 
-   credit = relationship("Credit", back_populates="idBank")
-   passion = relationship("Passion", back_populates="idPassion")
-   institution = relationship("Institution", back_populates="idInstitution")
-   
-
-   def __init__(self, Candidates):
-      
-      self.Candidates = Candidates
-   
-   def __repr__(self):
-      return f"{self.Candidates}"
-
-class Credit (db.Model):
+class Credit(db.Model):
    __tablename__='credit'
 
    idBank = db.Column(db.Integer, primary_key=True)
    credit_card_type = db.Column(db.String(64))
-
+   credit = relationship("Centre")
+   
    def __init__(self, credit_card_type):
       
       self.credit_card_type = credit_card_type
@@ -39,11 +19,17 @@ class Credit (db.Model):
    def __repr__(self):
       return f"{self.credit_card_type}"
 
+   
+   def center(engine):
+      enter = pd.read_csv('credit.csv')
+      enter.to_sql('credit',engine, if_exists='append',index=False, chunksize=1 )
+
 class Passion(db.Model):
    __tablename__='passion'
     
    idPassion = db.Column(db.Integer, primary_key=True)
    nomPassion = db.Column(db.String(64))
+   passion = relationship("Centre")
 
    def __init__(self, nomPassion):
       
@@ -52,11 +38,18 @@ class Passion(db.Model):
    def __repr__(self):
       return f"{self.nomPassion}"
 
+
+   def center(engine):
+      enter = pd.read_csv('passion.csv')
+      enter.to_sql('passion',engine, if_exists='append',index=False, chunksize=1 )
+
 class Institution(db.Model):
    __tablename__='institution'
     
    idInstitution = db.Column(db.Integer, primary_key=True)
    Education = db.Column(db.String(64))
+   institution = relationship("Centre")      
+
 
    def __init__(self, Education):
       
@@ -64,6 +57,31 @@ class Institution(db.Model):
    
    def __repr__(self):
       return f"{self.Education}"
+
+   
+   def center(engine):
+      enter = pd.read_csv('institution.csv')
+      enter.to_sql('institution',engine, if_exists='append',index=False, chunksize=1)
+
+class Centre(db.Model):
+   __tablename__='centre'
+    
+   ID = db.Column(db.Integer, primary_key=True)
+   Candidate = db.Column(db.String(64))
+   Gender = db.Column(db.String(64))
+   idBank = db.Column(db.Integer,ForeignKey('credit.idBank'))
+   idPassion = db.Column(db.Integer,ForeignKey('passion.idPassion'))
+   idInstitution = db.Column(db.Integer,ForeignKey('institution.idInstitution'))
+
+   def __init__(self, centre):
+      self.centre = centre
+   
+   def __repr__(self):
+      return f"{self.centre}"
+
+   def center(engine):
+      enter = pd.read_csv('Centre.csv')
+      enter.to_sql('centre',engine,if_exists='append',index=False, chunksize=1)
 
 
 
