@@ -1,0 +1,80 @@
+body{
+  background-image:linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+  url("lizard.png");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+ 
+}
+
+ul{
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(93, 173, 12);
+    font-family: fantasy;text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 rgb(71, 192, 67), 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+
+}
+h2{
+    color: rgb(128, 21, 128);
+}
+p{
+    color: rgb(182, 13, 92);
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 130px;
+}
+.bouton{
+
+    font-size: 30px;
+    margin-left: 20px;
+    font-family: fantasy;text-shadow: 2px 0 0 rgb(200, 42, 42), -2px 0 0 rgb(189, 101, 101), 0 2px 0 rgb(22, 18, 18);
+    font-weight: 500;
+   
+}
+h1{
+
+    font-size: 40px;
+}
+ol{
+
+  font-size: 30px;
+}
+
+footer,.pied{
+  padding-top: 100px;
+  color: #E70009;
+
+}
+
+select {
+   -webkit-appearance:none;
+   -moz-appearance:none;
+   -ms-appearance:none;
+   appearance:none;
+   outline:0;
+   box-shadow:none;
+   border:0!important;
+   background-image: none;
+   flex: 1;
+   padding: 0 .5em;
+   cursor:pointer;
+   font-size: 1em;
+   font-family: 'Open Sans', sans-serif;
+}
+
+  .take{
+    
+   color:rgb(10, 25, 110);
+   margin-top: 20px;
+   cursor:pointer;
+   font-size: 1em;
+   font-family: 'Open Sans', sans-serif;
+    
+  }
+  
+  
