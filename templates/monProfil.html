@@ -2,18 +2,16 @@
 
 {% block content %}
 
+<h1>Voici les profils correspondants :</h1>
+<div>
+<!--    
+  {{ education }}
+  {{nomPassion}}{{credit_card_type}} -->
+  <ol>
+  {%for centre in result%}
+    <li>{{centre.Candidate}}</li>
+    {%endfor%}
+  </ol>
 
-
-<h1>Voir mon Profil:  {{perso.name}}  </h1>
-
-
-
-<a href= "{{ url_for('monProfil')}}">  Modifie  </a><br>
-
-    <form action="{{url_for('monProfil')}}?id={{perso.id}}" method = "post">
-        <p>name <input type = "text" name = "renom" placeholder="Taper votre nouveau nom" value={{renom}}></p>
-    <p><input type = "submit" value = "Update" /></p>
-  </form>
- 
-
+</div>
 {% endblock %}

@@ -2,14 +2,72 @@
 
 {% block content %}
 
-<h1>Page de Profil</h1>
-<form action="{{url_for('monProfil')}}" method="GET">
-    
-    <input type="text" name="name" value="Votre nom" />
-   
-    <input type="submit" value="Envoyer" />
+<h1>Liste des super infos</h1>
+
+<form action="{{url_for('monProfil')}}" method="post">
+  <div class="bloc">
+    <select id="education" name="education">
+      <option>Choix de l'établissement</option>
+      <option value="1">Junior college</option>
+      <option value="2">University-preparatory school</option>
+      <option value="3">Gymnasium</option>
+      <option value="4">Public university</option>
+      <option value="5">Graduate school</option>
+      <option value="6">Technical college</option>
+      <option value="7">High school</option>
+      <option value="8">Middle school</option>
+      <option value="9">University college</option>
+      <option value="10">Corporate university</option>
+    </select>
+ 
+
+
+
+    <select id="nomPassion" name="nomPassion">
+      <option>Choix des passions</option>
+      <option value="1">Hard Rock</option>
+      <option value="2">Blues</option>
+      <option value="3">Dubstep</option>
+      <option value="4">Soul</option>
+      <option value="5">House</option>
+      <option value="6">Pop</option>
+      <option value="7">Latin</option>
+      <option value="8">Opera</option>
+      <option value="9">Country</option>
+      <option value="10">Reggae</option>
+      <option value="11">Techno</option>
+      <option value="12">Hip-Hop</option>
+      <option value="13">Jazz</option>
+      <option value="14">Baroque</option>
+      <option value="15">Drum & Bass</option>
+    </select>
+
+
+
+
+    <select id="credit_card_type" name="credit_card_type">
+
+      <option>Choix des banques</option>
+      <option value="1">Bank of America</option>
+      <option value="2">American Express</option>
+      <option value="3">Maestro</option>
+      <option value="4">UnionPay</option>
+      <option value="5">Capital One</option>
+      <option value="6">Discover</option>
+      <option value="7">Visa</option>
+      <option value="8">Chase</option>
+      <option value="9">Citibank</option>
+      <option value="10">Wells Fargo</option>
+      <option value="11">MasterCard</option>
+
+    </select>
+  
+
+  <input class="take" type="submit" value="Resultat">
+</div>
+
 </form>
 
 
- 
+
 {% endblock %}

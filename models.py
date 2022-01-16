@@ -2,8 +2,9 @@ from db import db
 from sqlalchemy import Table, Column, Integer, ForeignKey,String,engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
-import pandas as pd
 
+
+import pandas as pd
 
 class Credit(db.Model):
    __tablename__='credit'
@@ -12,17 +13,11 @@ class Credit(db.Model):
    credit_card_type = db.Column(db.String(64))
    credit = relationship("Centre")
    
-   def __init__(self, credit_card_type):
-      
-      self.credit_card_type = credit_card_type
-   
-   def __repr__(self):
-      return f"{self.credit_card_type}"
-
    
    def center(engine):
       enter = pd.read_csv('credit.csv')
       enter.to_sql('credit',engine, if_exists='append',index=False, chunksize=1 )
+
 
 class Passion(db.Model):
    __tablename__='passion'
@@ -31,17 +26,11 @@ class Passion(db.Model):
    nomPassion = db.Column(db.String(64))
    passion = relationship("Centre")
 
-   def __init__(self, nomPassion):
-      
-      self.nomPassion = nomPassion
    
-   def __repr__(self):
-      return f"{self.nomPassion}"
-
-
    def center(engine):
       enter = pd.read_csv('passion.csv')
       enter.to_sql('passion',engine, if_exists='append',index=False, chunksize=1 )
+
 
 class Institution(db.Model):
    __tablename__='institution'
@@ -51,14 +40,6 @@ class Institution(db.Model):
    institution = relationship("Centre")      
 
 
-   def __init__(self, Education):
-      
-      self.Education = Education
-   
-   def __repr__(self):
-      return f"{self.Education}"
-
-   
    def center(engine):
       enter = pd.read_csv('institution.csv')
       enter.to_sql('institution',engine, if_exists='append',index=False, chunksize=1)
@@ -73,11 +54,6 @@ class Centre(db.Model):
    idPassion = db.Column(db.Integer,ForeignKey('passion.idPassion'))
    idInstitution = db.Column(db.Integer,ForeignKey('institution.idInstitution'))
 
-   def __init__(self, centre):
-      self.centre = centre
-   
-   def __repr__(self):
-      return f"{self.centre}"
 
    def center(engine):
       enter = pd.read_csv('Centre.csv')
